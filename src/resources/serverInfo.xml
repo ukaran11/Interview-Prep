@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<my_servers>
+ <server>
+  <server-name>PROD</server-name>
+  <server-ip>xx.xx.xx.xx</server-ip>
+  <server-port>80</server-port>
+  <server-desc>Running A/S</server-desc>
+ </server>
+ 
+ <server>
+  <server-name>PROD2</server-name>
+  <server-ip>xx1.xx1.xx1.xx1</server-ip>
+  <server-port>80</server-port>
+  <server-desc>Running A/S</server-desc>
+ </server>
+</my_servers>
